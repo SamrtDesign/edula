@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="571.634" height="412.238" viewBox="0 0 571.634 412.238">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="49" y="54" width="571.634" height="412.238" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#63acff"/>
+      <stop offset="0.996" stop-color="#97abde"/>
+      <stop offset="1" stop-color="#97abde"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1578" data-name="Group 1578" transform="translate(-266.341 -7851.381)">
+    <g id="Scroll_Group_4" data-name="Scroll Group 4" transform="translate(217.341 7797.381)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Group_1577" data-name="Group 1577" transform="translate(-217.341 -7797.381)">
+        <path id="about_bg_shape" d="M387.567,419.1c35.482,0,68.61-14.976,95.494-51.8,40.062-54.874,55.6-263.645-93.093-337.327C348.83,9.591,303.655,0,259.113,0,142.662,0,30.482,65.532,5.662,175.04c-34.313,151.394,94.933,39.144,183,131.246C246.117,366.369,320.987,419.1,387.567,419.1" transform="matrix(0.921, -0.391, 0.391, 0.921, 217.341, 7996.832)" opacity="0.4" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
